@@ -32,10 +32,10 @@
 
 # 3. Key Features (주요 기능)
 
-- **몬스터 AI**:
+- **몬스터 AI**:
   - 프레임마다 UpdateMoving 함수를 통해 플레이어를 향해 이동합니다.
-  - 
-- **몬스터 자동 스폰**:
+    
+- **몬스터 자동 스폰**:
   - 코루틴 함수로 3초에 한개씩 게임 화면에 스폰하도록 만들었습니다.
   - 보스전 또는 popup 창이 뜨거나 게임 종료시 스폰이 종료됩니다.
   - 최대 100 마리의 몬스터만 스폰합니다.
@@ -66,7 +66,7 @@
 ## 5.1 Language
 |  |  |
 |-----------------|-----------------|
-| C#    |<img src="/images/CSharp.png" alt="C#" width="100">| 
+|C#    |<img src="/images/Csharp.png" alt="C#" width="100">| 
 
 
 <br/>
@@ -74,7 +74,7 @@
 ## 5.2 Tool
 |  |  |
 |-----------------|-----------------|
-| Unity    |  <img src="/images/Unity.png" alt="Unity" width="100"> |
+|Unity    |  <img src="/images/Unity.png" alt="Unity" width="100"> |
 
 
 <br/>
