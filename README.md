@@ -6,9 +6,9 @@
 <br/>
 
 # 0. Getting Started (시작하기)
+```[서비스 링크](https://puppyvampiresurvivalgame.vercel.app/)
 ```
-```
-[서비스 링크](https://puppyvampiresurvivalgame.vercel.app/)
+
 
 <br/>
 <br/>
